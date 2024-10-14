@@ -1,0 +1,24 @@
+           <alternate-uri>file:/home/jenkins/jenkins-agent/712657a4/workspace/Netbeans_netbeans-TLP_release200/distpreparation/netbeans/installer/dist/installers/registry-temp/components/products/nb-php/20.0.0.231123/windows%20linux/icon.png</alternate-uri>
+            </icon>
+            <properties>
+                <property name="installation.location">C:\Program Files\NetBeans-20</property>
+            </properties>
+            <configuration-logic>
+                <file md5="a2488cab7b6ed2de9f6d7b12a3a8a3a2" size="2374">
+                    <default-uri>file:/C:/Users/Administrator/.nbi/tmp/logic,1.jar.4</default-uri>
+                    <alternate-uri>resource:data/nb-php/20.0.0.231123.0/windows%20linux/logic/logic,1.jar</alternate-uri>
+                    <alternate-uri>file:/home/jenkins/jenkins-agent/712657a4/workspace/Netbeans_netbeans-TLP_release200/distpreparation/netbeans/installer/dist/installers/registry-temp/components/products/nb-php/20.0.0.231123/windows%20linux/logic/logic,1.jar</alternate-uri>
+                </file>
+            </configuration-logic>
+            <installation-data>
+                <file md5="5ef48db9bef223c72972d9e9621ec269" size="7276779">
+                    <default-uri>resource:data/nb-php/20.0.0.231123.0/windows%20linux/data/data,1.jar</default-uri>
+                    <alternate-uri>file:/home/jenkins/jenkins-agent/712657a4/workspace/Netbeans_netbeans-TLP_release200/distpreparation/netbeans/installer/dist/installers/registry-temp/components/products/nb-php/20.0.0.231123/windows%20linux/data/data,1.jar</alternate-uri>
+                </file>
+            </installation-data>
+            <system-requirements>
+                <disk-space>27365368</disk-space>
+            </system-requirements>
+            <dependencies>
+                <requirement uid="nb-all" version-lower="20.0.0.231123.0" version-upper="20.0.0.231123.0"/>
+                <requirement uid="nb-webcommon" version-lower="20.0.0.231123.0" version-upper="20.0.
